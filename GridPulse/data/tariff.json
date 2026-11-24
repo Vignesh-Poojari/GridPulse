@@ -1,0 +1,14 @@
+{
+  "name": "Illustrative residential slab tariff (edit to match your DISCOM)",
+  "slab_limits": [100, 300, 500],
+  "slab_rates": [4.71, 10.29, 14.55, 16.64],
+  "fixed_charge": 128.0,
+  "duty_pct": 16.0,
+  "peak_start": 18,
+  "peak_end": 22,
+  "peak_surcharge": 1.0,
+  "offpeak_start": 22,
+  "offpeak_end": 6,
+  "offpeak_rebate": 1.0,
+  "billing_days": 30
+}
